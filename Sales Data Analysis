@@ -1,0 +1,58 @@
+Sales Performance Analysis – Power BI
+
+Project Overview
+This project focuses on analyzing sales performance to understand product trends, profitability, discounts, and regional performance. The Power BI dashboard enables interactive analysis using filters, comparisons, and KPIs to support data-driven business decisions
+
+ Business Objectives
+- Identify top and bottom performing products
+- Analyze sales trends over time
+- Understand the relationship between sales and profit
+- Compare performance across different time periods
+- Evaluate discount strategies
+- Analyze sales distribution across cities
+
+Tools & Technologies Used
+- Power BI
+- Excel (Data Cleaning & Preparation)
+- DAX (Calculated Measures)
+- Interactive Visuals & Filters
+
+1️⃣ Top & Bottom 5 Products
+- Top and Bottom 5 products based on:
+  - Sales
+  - Profit
+  - Quantity Sold
+
+2️⃣ Sales Trend Analysis
+- Sales trends analyzed across:
+  - Daily
+  - Monthly
+  - Quarterly
+  - Yearly time frames
+
+3️⃣ Sales vs Profit Analysis
+- Visual representation showing the relationship between sales and profit
+- Helps identify high-revenue but low-profit products
+
+4️⃣ Period Comparison
+- Comparison of Sales, Profit, and Quantity Sold between any two user-selected periods
+
+5️⃣ Discount Analysis
+- Average discount offered across different discount categories
+
+6️⃣ Order Analysis
+- Total number of orders displayed as a KPI
+
+7️⃣ Detailed Order-Level View
+- Displays Sales, Profit, Discount, Net Sales, and other fields per order
+- Fully filterable using:
+  - Product
+  - Date
+  - Customer ID
+  - Promotion Category
+
+8️⃣ City-Wise Sales Analysis
+- Sales performance visualized across different cities
+
+Analysis:
+This dashboard provides a comprehensive view of sales performance, enabling stakeholders to identify trends, optimize product strategies, and improve profitability through data-driven insights.
