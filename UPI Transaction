@@ -1,0 +1,46 @@
+Project Overview
+This project analyzes UPI transaction data to track transaction behavior, balances, and spending patterns. The dashboard emphasizes clean data modeling, effective slicer design, matrix visuals, conditional formatting, and bookmarks for enhanced user experience.
+ Objectives
+- Perform data profiling to understand transaction data quality
+- Analyze transaction history and remaining balances
+- Improve dashboard usability through slicer design and formatting
+- Enable easy navigation using bookmarks.
+
+ Tools & Techniques Used
+- Power BI
+- Data Profiling
+- Slicer Formatting & Syncing
+- Matrix Visuals
+- Conditional Formatting
+- Bookmarks for Navigation
+
+Key Features & Implementations
+
+Data Profiling
+- Analyzed data structure, missing values, and data distribution
+- Ensured data consistency and accuracy before visualization
+
+ Slicer Design & Formatting
+- Optimized size and position of slicers for better usability
+- Applied formatting to improve readability
+- Synced slicers across report pages for consistent filtering
+
+ Transaction Analysis using Matrix Visual
+- Used matrix visuals to display transaction details
+- Enabled easy comparison across transaction types and categories
+
+Conditional Formatting
+- Applied conditional formatting to highlight:
+  - High-value transactions
+  - Low balances
+  - Important transaction patterns
+
+Bookmarks for Navigation
+- Created bookmarks to switch between:
+  - Transaction Details
+  - Remaining Balance View
+- Enhanced user experience with seamless navigation
+
+Analysis:
+This Power BI dashboard provides a clear and interactive view of UPI transactions and balances. The use of slicers, conditional formatting, and bookmarks enhances usability and helps users track transactions effectively.
+
