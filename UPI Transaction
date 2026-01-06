@@ -1,6 +1,7 @@
 Project Overview
 This project analyzes UPI transaction data to track transaction behavior, balances, and spending patterns. The dashboard emphasizes clean data modeling, effective slicer design, matrix visuals, conditional formatting, and bookmarks for enhanced user experience.
- Objectives
+ 
+Objectives
 - Perform data profiling to understand transaction data quality
 - Analyze transaction history and remaining balances
 - Improve dashboard usability through slicer design and formatting
